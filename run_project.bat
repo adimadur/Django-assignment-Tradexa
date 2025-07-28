@@ -1,7 +1,7 @@
 @echo off
 echo Activating virtual environment...
 call .\.venv\Scripts\activate
-
+pip install -r requirements.txt
 cd assignment
 
 echo Deleting old databases...
