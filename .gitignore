@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+
+# SQLite DBs
+users.db
+products.db
+orders.db
+
+# ENV
+.env
+.venv/
+env/
+venv/
+ENV/
+VENV/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac/Windows OS junk
+.DS_Store
+Thumbs.db
