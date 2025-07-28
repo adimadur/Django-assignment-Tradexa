@@ -24,3 +24,7 @@ python manage.py migrate --database=orders
 
 # Run the threaded insert command
 python manage.py insert_data
+```
+
+## Run via bat file (automated)
+Just double click on `run_project.bat` file in your root folder and all the commands are executed one by one. No need to manually type.
